@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ivanMai7.I'm a postgraduate major in Sofeware Engineering at the WHUT.
+- 👋 Hi, I’m @ivanMai7.I'm a postgraduate majoring in Software Engineering at the WHUT.
 - 👀 I’m interested in Computer Science and programming.
 - 📫 My email: 15934381427@163.com
 
